@@ -138,7 +138,7 @@ healthcare-provider-segmentation/
 - Overall portfolio returns: 47%
 
 ### **Page 4: Top Performers**
-![Top Performers](TOP_PERFORMERS.png)
+![Top Performers](TOPPERFORMERS.png)
 - Individual provider performance table
 - Filterable by segment
 - Profit % with conditional formatting
