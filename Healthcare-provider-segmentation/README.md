@@ -120,22 +120,25 @@ healthcare-provider-segmentation/
 ## 📈 Dashboard Preview
 
 ### **Page 1: Executive Summary**
+![Executive Summary](Healthcare-provider-segmentation/SCREENSHOTS/OVERVIEW.png)
 - KPI cards showing total providers, revenue, claims
 - Revenue distribution by segment
 - Key insight: 79% of revenue from 22% of providers
 
 ### **Page 2: Segment Performance**
+![Segment Performance](Healthcare-provider-segmentation/SCREENSHOTS/SEGMENTS.png)
 - Side-by-side comparison of all segments
 - Champions dominate across all metrics
 - Activity analysis (recency)
 
 ### **Page 3: ROI Analysis**
-!
+!![ROI Analysis](Healthcare-provider-segmentation/SCREENSHOTS/ROI.png)
 - Investment vs revenue comparison
 - Profit margins by segment
 - Overall portfolio returns: 47%
 
 ### **Page 4: Top Performers**
+![Top Performers](Healthcare-provider-segmentation/SCREENSHOTS/TOP%20PERFORMERS.png)
 - Individual provider performance table
 - Filterable by segment
 - Profit % with conditional formatting
